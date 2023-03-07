@@ -1,0 +1,142 @@
+.component-1 {
+  background-color: #FBEDD0;
+	width: 1280px;
+  overflow: hidden;
+  padding: 0 0 145px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+	
+}
+
+.relative-wrapper-one {
+  margin-bottom: 573px;
+  position: relative;
+}
+
+.flowers {
+  width: 317px;
+  height: 300px;
+  position: absolute;
+  right: -14px;
+  bottom: -273px;
+}
+
+.flex-wrapper-one {
+  background-color: #FFFFFF;
+  padding: 38px 56px 37px;
+  position: relative;
+  border: 0.5px solid rgba(0, 0, 0, 0.4);
+}
+
+.frame-2 {
+  padding: 9px 0 9px 923px;
+  position: relative;
+}
+
+.menu {
+  display: flex;
+  align-items: flex-start;
+	
+}
+
+.home {
+  font-family: "FilsonProRegular";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  text-align: center;
+  text-decoration: underline;
+  margin-right: 53px;
+}
+
+.about {
+  font-family: "FilsonProRegular";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  text-align: center;
+}
+
+.about:not(:last-of-type) {
+  margin-right: 39px;
+}
+
+.name {
+  max-width: 85px;
+  font-family: "FilsonProBlack";
+  font-size: 32px;
+  font-weight: 900;
+  line-height: 27px;
+  color: var(--dark-slate-gray);
+  position: absolute;
+  left: 540px;
+  top: -18px;
+}
+
+.pink-blobs {
+  position: absolute;
+ 	width: 384.06px;
+	height: 372.82px;
+  left: -60px;
+  top: 177.63px;
+
+}
+
+.yellow-lines {
+  width: 349.69px;
+  height: 90px;
+  position: absolute;
+  left: -26px;
+	top: 707px;
+  bottom: 52px;
+}
+
+.absolute-wrapper-two {
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  left: 679px;
+  top: 492px;
+}
+
+.yellow-arc {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/3ef3a55b-8d7e-4a73-a38c-6cbbbbbc3fee.svg");
+  padding: 158px 16px 104px 173px;
+  position: relative;
+	
+}
+
+.zigzag {
+  width: 478px;
+  height: 98px;
+}
+
+.frame-28 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: absolute;
+  left: -302px;
+  top: -226px;
+}
+
+.main {
+  width: 327px;
+  flex: 1;
+  border-radius: 206px;
+  object-fit: cover;
+}
+
+.heading-1 {
+  font-family: "FilsonProRegular";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+}
